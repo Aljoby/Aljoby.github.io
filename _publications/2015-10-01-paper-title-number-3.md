@@ -1,15 +1,18 @@
 ---
-title: "Paper Title Number 3"
+title: "DiffPerf: An In-Network Performance Optimization for Improving User-Perceived QoE"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+excerpt: 'Abstract: Continuing the current trend, Internet traffic is expected to grow significantly over the coming years, with video traffic consuming the biggest share. Despite numerous optimizations of the transport congestion control, and the switch butter sizing and management algorithms; however, the complex interaction among all of them still leads to uncertain user performance and thus degrades user-perceived quality, under various network and traffic conditions. The culprit is the difficulty to dynamically control the amount of bandwidth allocated to each of the competing flows under bottleneck due to the algorithms lack of visibility of butter content where the flows reside. We address this bandwidth allocation problem by proposing DiffPerf, an in-network system that relies on a lightweight learning algorithm to statistically differentiate and isolate user flows to help them achieve better performance in an online and dynamic manner. We built two SDN-based prototypes of DiffPerf; one on OpenDaylight with OpenFlow Brocade switch and the other with programmable data plane Barefoot Tofino switch. We evaluate it from an application perspective for ABR video streaming as it accounts for a majority of the Internet traffic. Our evaluations demonstrate the practicality and flexibility that DiffPerf assists users in achieving better fairness and improving overall user-perceived quality. On average DiffPerf yields a quality improvement of about 4.6× and 1.2× higher than TCP BBR and TCP CUBIC, respectively.'
+date: 2021-07-29
+venue: 'IEEE NetSoft'
+paperurl: 'https://ieeexplore.ieee.org/document/9492628'
+citation: 'Walid Aljoby, Xin Wang, Dinil Divakaran, Tom Fu, Richard Ma. "DiffPerf: An In-Network Performance Optimization for Improving User-Perceived QoE". <i>In the 7th International Conference on Network Softwarization (NetSoft)</i>, Tokyo, Japan.'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+Abstract:
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+ Continuing the current trend, Internet traffic is expected to grow significantly over the coming years, with video traffic consuming the biggest share. Despite numerous optimizations of the transport congestion control, and the switch butter sizing and management algorithms; however, the complex interaction among all of them still leads to uncertain user performance and thus degrades user-perceived quality, under various network and traffic conditions. The culprit is the difficulty to dynamically control the amount of bandwidth allocated to each of the competing flows under bottleneck due to the algorithms lack of visibility of butter content where the flows reside. We address this bandwidth allocation problem by proposing DiffPerf, an in-network system that relies on a lightweight learning algorithm to statistically differentiate and isolate user flows to help them achieve better performance in an online and dynamic manner. We built two SDN-based prototypes of DiffPerf; one on OpenDaylight with OpenFlow Brocade switch and the other with programmable data plane Barefoot Tofino switch. We evaluate it from an application perspective for ABR video streaming as it accounts for a majority of the Internet traffic. Our evaluations demonstrate the practicality and flexibility that DiffPerf assists users in achieving better fairness and improving overall user-perceived quality. On average DiffPerf yields a quality improvement of about 4.6× and 1.2× higher than TCP BBR and TCP CUBIC, respectively.
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+[Download paper here](https://ieeexplore.ieee.org/document/9492628')
+
+Recommended citation: Walid Aljoby, Xin Wang, Dinil Divakaran, Tom Fu, Richard Ma. "DiffPerf: An In-Network Performance Optimization for Improving User-Perceived QoE". In the 7th International Conference on Network Softwarization (NetSoft), Tokyo, Japan.
+
