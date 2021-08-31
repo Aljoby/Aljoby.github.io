@@ -11,30 +11,28 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc in Computer Information Systems, Hashemite University, Jordan (1st Class Honours), 2008
+* M.Sc. in Computer Engineering, Jordan University of Science and Technology, Jordan, 2013 
+* Ph.D. in Computer Science, National University of Singapore, Singapore, 2020
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Postdoctoral Research Fellow (Full-time) (Dec. 2020 - Present)
+  * National University of Singapore
+  * Research focus: Enabling In-Network Detection and Mitigation of Adaptive Link Flooding Attacks (LFA). This kind of attack is TCP-conforming under which the botnet sends a stealthy low-rate traffic regulated by TCP congestion control. We leverage the flexibility of SDN programmable data plane to defend against this attack via traffic engineering techniques.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Research Intern (Part-time) (Aug. 2019 - Dec. 2019)
+  * Advance Digital Sciences Center, University of Illinois at Urbana-Champaign (UIUC)
+  * Gained knowledge about the cyber attack scenarios targeting the smart grid power system. Specifically, the attacks that could be launched against infrastructure of an electric power substation during GOOSE-based data transmission between substation’s IEDs.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages (P4, Assembly, C, C++, Java, .NET, MATLAB)
+* Web & DBMS (XML, HTML, PHP, JavaScript, SQLServer, MySQL)
+* Microprocessors Simulators (SESC, WinDLX, XEEMO)
+* Network Simulators (Scapy, Mininet, NS2, OMNET++)
+* Platforms (Linux, Tofino, OpenDaylight, Brocade, Cisco, Docker, Analytics and ML).
+* Microsoft ASP.NET (C#), Cisco CCNA, A+, BA-9111: Data Plane Development, Barefoot Networks Intel.
 
 Publications
 ======
@@ -56,4 +54,6 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Student mentor, SIGCOMM 2021.
+* Student volunteer, ICNP 2016.
+* Reviewer for networking-related papers in (1) IEEE Transactions on Parallel and Distributed Systems (IEEE TPDS), (2) IEEE Journal on Selected Areas in Communications (IEEE JSAC), and (3) IEEE Transactions on Communications (IEEE TCOM).
