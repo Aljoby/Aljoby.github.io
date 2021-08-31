@@ -31,8 +31,8 @@ Skills
 * Web & DBMS (XML, HTML, PHP, JavaScript, SQLServer, MySQL)
 * Microprocessors Simulators (SESC, WinDLX, XEEMO)
 * Network Simulators (Scapy, Mininet, NS2, OMNET++)
-* Platforms (Linux, Tofino, OpenDaylight, Brocade, Cisco, Docker, Analytics and ML).
-* Microsoft ASP.NET (C#), Cisco CCNA, A+, BA-9111: Data Plane Development, Barefoot Networks Intel.
+* Platforms (Linux, Tofino, OpenDaylight, Brocade, Cisco, Docker, Analytics and ML)
+* Microsoft ASP.NET (C#), Cisco CCNA, A+, BA-9111: Data Plane Development, Barefoot Networks Intel
 
 Publications
 ======
@@ -54,6 +54,6 @@ Teaching
   
 Service and leadership
 ======
-* Student mentor, SIGCOMM 2021.
-* Student volunteer, ICNP 2016.
-* Reviewer for networking-related papers in (1) IEEE Transactions on Parallel and Distributed Systems (IEEE TPDS), (2) IEEE Journal on Selected Areas in Communications (IEEE JSAC), and (3) IEEE Transactions on Communications (IEEE TCOM).
+* Student mentor, SIGCOMM 2021
+* Student volunteer, ICNP 2016
+* Reviewer for networking-related papers in (1) IEEE Transactions on Parallel and Distributed Systems (IEEE TPDS), (2) IEEE Journal on Selected Areas in Communications (IEEE JSAC), and (3) IEEE Transactions on Communications (IEEE TCOM)
