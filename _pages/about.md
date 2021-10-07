@@ -20,13 +20,13 @@ NEWs
 [July. 2021], I presented <i>DiffPerf</i>, in the IEEE NetSoft 2021 virtual conference.
 </li>
 <li>
-[Jan. 2021], I have been appointed as Adjunct Research Fellow with Advanced Digital Sciences Center, the research center of the University of Illinois at Urbana-Champaign in Singapore.
+[Jan. 2021], I have been appointed as <i> Adjunct Research Fellow </i>with Advanced Digital Sciences Center, the research center of the University of Illinois at Urbana-Champaign in Singapore.
 </li>
 <li>
-[Dec. 2020], I started Postdoc work with department of Computer Science, School of Computing, National University of Singapore.
+[Dec. 2020], I started <i>Postdoc</i> work with department of Computer Science, School of Computing, National University of Singapore.
 </li>
 <li>
-<a href="https://www.comp.nus.edu.sg/entrepreneurship/awards/iepsocwinners">[Apr. 2019]</a>, I won I&E (Innovation & Entrepreneur) Practicum Award, School of Computing, National University of Singapore,
+<a href="https://www.comp.nus.edu.sg/entrepreneurship/awards/iepsocwinners">[Apr. 2019]</a>, I won I&E (Innovation & Entrepreneur) <i>Practicum Award</i>, School of Computing, National University of Singapore,
 Singapore.
 </li>
 </ul>
