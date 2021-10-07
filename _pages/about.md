@@ -17,7 +17,7 @@ NEWs
 -------------------
 <ul>
 <li>
-[July. 2021], I presented <a href="https://whova.com/portal/ieeen_202106/videos/1YDNzIzNzQTO/">DiffPerf</a>, in the IEEE NetSoft 2021 virtual conference.
+[July. 2021], I presented DiffPerf, in the IEEE NetSoft 2021 virtual conference.
 </li>
 <li>
 [Jan. 2021], I have been appointed as Adjunct Research Fellow with Advanced Digital Sciences Center, the research center of the University of Illinois at Urbana-Champaign in Singapore.
