@@ -17,7 +17,7 @@ NEWs
 -------------------
 <ul>
 <li>
-[July. 2021], I presented <i>An In-Network Performance Optimization for Improving User-Perceived QoE</i>, in the IEEE NetSoft 2021 virtual conference.
+[Jul. 2021], I presented <i>An In-Network Performance Optimization for Improving User-Perceived QoE</i>, in the IEEE NetSoft 2021 virtual conference (main program).
 </li>
 <li>
 [Jan. 2021], I have been appointed as <i> Adjunct Research Fellow </i>with Advanced Digital Sciences Center, the research center of the University of Illinois at Urbana-Champaign in Singapore.
@@ -35,6 +35,16 @@ Bandwidth Allocation for Stream Analytics</i>, published in IEEE Journal on Sele
 </li>
 <li>
 [Sep. 2018], I presented <i>On SDN-Enabled Online and Dynamic
-Bandwidth Allocation for Stream Analytics</i>, in the IEEE ICNP 2018 conference, Cambridge, UK.
+Bandwidth Allocation for Stream Analytics</i>, in the IEEE ICNP 2018 conference (main program), Cambridge, UK.
+</li>
+<li>
+[Oct. 2017], presented <i>Impacts of Task Placement and Bandwidth Allocation
+on Stream Analytics</i>, in the IEEE ICNP 2017 conference (NetBOS workshop), Toronto,
+Canada.
+</li>
+<li>
+[Mar. 2017], presented <i>A Novel Software-De ned Networking Architecture for Stream
+Data Analytics</i>, In NSDI (Posters), Boston, MA, USA.
 </li>
 </ul>
+
