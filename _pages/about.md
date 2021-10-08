@@ -43,7 +43,7 @@ on Stream Analytics</i>, in the IEEE ICNP 2017 conference (NetBOS workshop), Tor
 Canada.
 </li>
 <li>
-[Mar. 2017], presented <i>A Novel Software-De ned Networking Architecture for Stream
+[Mar. 2017], presented <i>A Novel Software-Defined Networking Architecture for Stream
 Data Analytics</i>, In NSDI (Posters), Boston, MA, USA.
 </li>
 </ul>
