@@ -17,13 +17,13 @@ NEWs
 -------------------
 <ul>
 <li>
-[Jul. 2021], I presented <i>An In-Network Performance Optimization for Improving User-Perceived QoE</i>, in the IEEE NetSoft 2021 virtual conference (main program).
+[Jul. 2021], presented <i>An In-Network Performance Optimization for Improving User-Perceived QoE</i>, in the IEEE NetSoft 2021 virtual conference (main program).
 </li>
 <li>
-[Jan. 2021], I have been appointed as <i> Adjunct Research Fellow </i>with Advanced Digital Sciences Center, the research center of the University of Illinois at Urbana-Champaign in Singapore.
+[Jan. 2021], appointed as <i> Adjunct Research Fellow </i>with Advanced Digital Sciences Center, the research center of the University of Illinois at Urbana-Champaign in Singapore.
 </li>
 <li>
-[Dec. 2020], I started <i>Postdoc</i> work with department of Computer Science, School of Computing, National University of Singapore.
+[Dec. 2020], started <i>Postdoc</i> work with department of Computer Science, School of Computing, National University of Singapore.
 </li>
 <li>
 <a href="https://www.comp.nus.edu.sg/entrepreneurship/awards/iepsocwinners">[Apr. 2019]</a>, I won I&E (Innovation & Entrepreneur) <i>Practicum Award</i>, School of Computing, National University of Singapore,
@@ -34,7 +34,7 @@ Singapore.
 Bandwidth Allocation for Stream Analytics</i>, published in IEEE Journal on Selected Areas in Communications.
 </li>
 <li>
-[Sep. 2018], I presented <i>On SDN-Enabled Online and Dynamic
+[Sep. 2018], presented <i>On SDN-Enabled Online and Dynamic
 Bandwidth Allocation for Stream Analytics</i>, in the IEEE ICNP 2018 conference (main program), Cambridge, UK.
 </li>
 <li>
