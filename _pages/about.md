@@ -20,7 +20,7 @@ NEWs
 [Jul. 2021], presented <i>An In-Network Performance Optimization for Improving User-Perceived QoE</i>, in the IEEE NetSoft 2021 virtual conference (main program).
 </li>
 <li>
-[Jan. 2021], appointed as <i> Adjunct Research Fellow </i>with Advanced Digital Sciences Center, the research center of the University of Illinois at Urbana-Champaign in Singapore.
+[Jan. 2021], appointed as <i> Adjunct Research Fellow </i>with Advanced Digital Sciences Center, the research center of the University of Illinois Urbana-Champaign (UIUC) in Singapore.
 </li>
 <li>
 [Dec. 2020], started <i>Postdoc</i> work with NUS-Singtel Cyber Security R&D Lab and department of Computer Science, School of Computing, National University of Singapore.
