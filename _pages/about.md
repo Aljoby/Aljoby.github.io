@@ -26,7 +26,7 @@ NEWs
 [Dec. 2020], started <i>Postdoc</i> work with department of Computer Science, School of Computing, National University of Singapore.
 </li>
 <li>
-<a href="https://www.comp.nus.edu.sg/entrepreneurship/awards/iepsocwinners">[Apr. 2019]</a>, I won I&E (Innovation & Entrepreneur) <i>Practicum Award</i>, School of Computing, National University of Singapore,
+<a href="https://www.comp.nus.edu.sg/entrepreneurship/awards/iepsocwinners">[Apr. 2019]</a>, won I&E (Innovation & Entrepreneur) <i>Practicum Award</i>, School of Computing, National University of Singapore,
 Singapore.
 </li>
 <li>
