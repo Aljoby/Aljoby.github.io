@@ -26,7 +26,7 @@ NEWs
 [Dec. 2020], started <i>Postdoc</i> work with NUS-Singtel Cyber Security R&D Lab and department of Computer Science, School of Computing, National University of Singapore.
 </li>
 <li>
-[Oct. 2020], received my PhD in computer science from National University of Singapore (NUS).
+[Oct. 2020], received a Ph.D in computer science from National University of Singapore (NUS).
 </li>
 <li>
 <a href="https://www.comp.nus.edu.sg/entrepreneurship/awards/iepsocwinners">[Apr. 2019]</a>, won I&E (Innovation & Entrepreneur) <i>Practicum Award</i>, School of Computing, National University of Singapore,
