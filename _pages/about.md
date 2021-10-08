@@ -23,7 +23,10 @@ NEWs
 [Jan. 2021], appointed as <i> Adjunct Research Fellow </i>with Advanced Digital Sciences Center, the research center of the University of Illinois at Urbana-Champaign in Singapore.
 </li>
 <li>
-[Dec. 2020], started <i>Postdoc</i> work with department of Computer Science, School of Computing, National University of Singapore.
+[Dec. 2020], started <i>Postdoc</i> work with NUS-Singtel Cyber Security R&D Lab and department of Computer Science, School of Computing, National University of Singapore.
+</li>
+<li>
+[Dec. 2020], received my PhD in computer science from National University of Singapore (NUS).
 </li>
 <li>
 <a href="https://www.comp.nus.edu.sg/entrepreneurship/awards/iepsocwinners">[Apr. 2019]</a>, won I&E (Innovation & Entrepreneur) <i>Practicum Award</i>, School of Computing, National University of Singapore,
