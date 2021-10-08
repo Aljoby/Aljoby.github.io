@@ -47,7 +47,7 @@ Canada.
 </li>
 <li>
 [Mar. 2017], presented <i>A Novel Software-Defined Networking Architecture for Stream
-Data Analytics</i>, In NSDI (Posters), Boston, MA, USA.
+Data Analytics</i>, In NSDI (posters), Boston, MA, USA.
 </li>
 </ul>
 
