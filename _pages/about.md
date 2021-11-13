@@ -7,9 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-%
-<body style="background-color:SlateGray;">
-%
+
 
 He is currently a postdoctoral research fellow with the department of computer science, National University of Singapore (NUS), and an adjunct research fellow with Advanced Digital Sciences Center (ADSC), University of Illinois at Urbana-Champaign (UIUC). His research interests are broadly in networking and systems, and more specifically on software-defined networking, programmable dataplanes, cloud networking, and network security.
 Walid Aljoby received the Ph.D degree in computer science from National University of Singapore (NUS) in 2020 and the M.Sc degree in computer engineering from Jordan University of Science and Technology (JUST) in 2013.
