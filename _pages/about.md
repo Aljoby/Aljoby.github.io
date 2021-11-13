@@ -30,7 +30,7 @@ NEWs
 [Oct. 2020], received a Ph.D degree in computer science from National University of Singapore (NUS).
 </li>
 <li>
-<!-- <a href="https://www.comp.nus.edu.sg/entrepreneurship/awards/iepsocwinners" style="text-decoration: none"> -->[Apr. 2019]</a>, won I&E (Innovation & Entrepreneur) <i>Practicum Award</i>, School of Computing, National University of Singapore,
+<!-- <a href="https://www.comp.nus.edu.sg/entrepreneurship/awards/iepsocwinners" style="text-decoration: none"> [Apr. 2019]</a> -->[Apr. 2019], won I&E (Innovation & Entrepreneur) <i>Practicum Award</i>, School of Computing, National University of Singapore,
 Singapore.
 </li>
 <li>
